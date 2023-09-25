@@ -28,7 +28,7 @@ void printarreglo(const vector<T>& arreglo) {
 
 int main() {
     //Ejemplos
-    vector<int> arreglo = {3,9,2,10,5,7,11};
+    vector<int> arreglo = {35,20,48,1,6,79,12};
     cout << "Ejemplo 1\nVector original: ";
     printarreglo(arreglo);
     insertionSort(arreglo);
