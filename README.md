@@ -2,4 +2,4 @@
 
 ## Paul Antony Parizaca Mozo
 
-[Práctica 1](https://github.com/PaulParizacaMozo/EDA-Teoria-Practica/tree/main/Practica%201)
+[Práctica 1: Insertion Sort vs Merge Sort](https://github.com/PaulParizacaMozo/EDA-Teoria-Practica/tree/main/Practica%201)
